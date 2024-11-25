@@ -7,7 +7,7 @@ import ivzhCN from 'iview/dist/locale/zh-CN'
 import ivzhTW from 'iview/dist/locale/zh-TW'
 // element UI
 import elenUS from 'element-ui/lib/locale/lang/en'
-import elkoKR from 'element-ui/lib/locale/lang/ko-KR'
+import elkoKR from 'element-ui/lib/locale/lang/ko'
 import elzhCN from 'element-ui/lib/locale/lang/zh-CN'
 import elzhTW from 'element-ui/lib/locale/lang/zh-TW'
 
