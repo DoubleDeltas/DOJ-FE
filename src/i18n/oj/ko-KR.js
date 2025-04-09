@@ -40,7 +40,7 @@ export const m = {
   Compile_Error_Description: "소스 코드를 컴파일하는 데 실패했습니다. 컴파일러의 출력을 보려면 링크를 클릭해주세요.",
   Accepted_Description: '축하합니다. 정답입니다.',
   Wrong_Answer_Description: "프로그램의 출력이 채점기의 답과 맞지 않습니다.",
-  Runtime_Error_Description: '프로그램이 비정상적으로 종료되었습니다. 세그먼트 오류 또는 0으로 나누기가 일어났거나 0이 아닌 다른 코드로 종료되었을 수 있습니다.',
+  Runtime_Error_Description: '프로그램이 비정상적으로 종료되었습니다. 세그먼트 폴트 또는 0으로 나누기가 일어났거나 0이 아닌 다른 코드로 종료되었을 수 있습니다.',
   Time_Limit_Exceeded_Description: '프로그램이 CPU를 사용한 시간이 제한을 초과했습니다.',
   Memory_Limit_Exceeded_Description: '프로그램이 실제로 사용한 메모리가 제한을 초과했습니다.',
   System_Error_Description: '이런, 채점기에 문제가 생겼습니다. 관리자에게 문의해주세요.',
